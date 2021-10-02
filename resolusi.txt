@@ -1,0 +1,6 @@
+Resolusi tahun ini yang hanya tersisa 3 bulan saja :
+  * menyelesaikan project spp
+  * belajar lebih dalam tentang arduino
+  * mempelajari kembali css
+  * belajar dart
+  * belajar flutter
