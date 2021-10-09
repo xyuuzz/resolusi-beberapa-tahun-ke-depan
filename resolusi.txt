@@ -4,6 +4,7 @@ Resolusi tahun ini yang hanya tersisa 3 bulan saja :
   * mempelajari kembali css
   * belajar dart
   * belajar flutter
+  * nilai baik saat semesteran
 
 
 Resolusi tahun 2022 :
