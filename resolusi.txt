@@ -8,7 +8,11 @@ Resolusi tahun ini yang hanya tersisa 3 bulan saja :
 
 
 Resolusi tahun 2022 :
- * mengikuti lomba lks? (mungkin)
- * belajar typescript
- * belajar tentang react & react native
- * belajar tentang network security
+  * mengikuti lomba lks? (mungkin)
+  * belajar typescript
+  * belajar tentang react & react native
+  * belajar tentang network security
+-- Marina Mardhan menambahkan --
+  * belajar tentang node.js
+  * belajar tentang express.js
+  * belajar tentang mongo.db
