@@ -2,6 +2,8 @@ Resolusi tahun ini yang hanya tersisa 3 bulan saja :
   * menyelesaikan project spp
   * belajar lebih dalam tentang arduino
   * mempelajari kembali css
+  * membuat website statis 
+  * belajar kembali tentang adobe potoshop & ilustrator
   * belajar dart
   * belajar flutter
 
@@ -15,3 +17,4 @@ Resolusi tahun 2022 :
   * belajar tentang node.js
   * belajar tentang express.js
   * belajar tentang mongo.db
+  * belajar tentang django 
